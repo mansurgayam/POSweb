@@ -1,0 +1,13 @@
+com\mycompany\posweb\Produk.class
+com\mycompany\posweb\Makanan.class
+com\mycompany\posweb\resources\JakartaEE11Resource.class
+com\mycompany\posweb\JakartaRestConfiguration.class
+com\mycompany\posweb\Transaksi.class
+com\mycompany\posweb\Tunai.class
+com\mycompany\posweb\MetodePembayaran.class
+com\mycompany\posweb\Minuman.class
+com\mycompany\posweb\Elektronik.class
+com\mycompany\posweb\POSServlet.class
+com\mycompany\posweb\Qris.class
+com\mycompany\posweb\ItemTransaksi.class
+com\mycompany\posweb\KartuDebit.class
